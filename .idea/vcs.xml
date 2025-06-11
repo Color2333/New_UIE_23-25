@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DM_underwater" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HAAM-GAN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS-UIE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shallow-UWnet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/U-shape_Transformer_for_Underwater_Image_Enhancement" vcs="Git" />
+  </component>
+</project>
