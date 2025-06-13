@@ -48,33 +48,6 @@ scikit-image >= 0.18.0
 lpips >= 0.1.4  # 用于感知质量评估
 ```
 
-### 快速安装
-
-```bash
-# 克隆项目
-git clone https://github.com/your-repo/UIE-Algorithms-Comparison.git
-cd UIE-Algorithms-Comparison
-
-# 创建虚拟环境
-conda create -n uie_comparison python=3.8
-conda activate uie_comparison
-
-# 安装依赖
-pip install -r requirements.txt
-```
-
-### 数据准备
-
-```bash
-# 创建数据目录结构
-mkdir -p data/{input,gt,output}
-
-# 1. 将测试图像放入 input/ 文件夹
-cp your_test_images/* data/input/
-
-# 2. 将对应的真值图像放入 gt/ 文件夹 (可选，用于定量评估)
-cp your_ground_truth/* data/gt/
-```
 
 **推荐测试数据集:**
 - UIEB: 890 对图像，包含多种水下场景
@@ -421,6 +394,6 @@ git push origin feature/your-feature-name
 
 **如果这个项目对您有帮助，请给我们一个⭐️!**
 
-[🏠 主页](https://github.com/your-repo/UIE-Algorithms-Comparison) | [📖 文档](docs/) | [🐛 问题反馈](https://github.com/your-repo/UIE-Algorithms-Comparison/issues) | [💬 讨论](https://github.com/your-repo/UIE-Algorithms-Comparison/discussions)
+[🏠 主页](https://github.com/Color2333/New_UIE_23-25) | [📖 文档](docs/) | [🐛 问题反馈](https://github.com/Color2333/New_UIE_23-25/issues) 
 
 </div>
